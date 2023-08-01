@@ -21,7 +21,7 @@ The game includes a mode that progressively gets more difficult. The difficulty 
 8) UP and DOWN to select letters for adding an alias to a new high score.
 
 
-## Testing
+### Testing
 The Serial monitor is used to observe every time the SELECT button is pressed. This is to show that the options chosen are being stored properly in their variables and that the sequence shown on the LCD and the buttons pressed are consistent.
 
 Game progress is also shown on the Serial monitor, i.e. the start of the next stage, losing the game, and the value of some variables to help with debugging.
