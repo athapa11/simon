@@ -2,6 +2,7 @@
 This repository contains code to develop a simple memory game on an Arduino Uno for an embedded systems coursework.
 The game includes a mode that progressively gets more difficult. The difficulty level can be pre-selected in the game options.
 
+
 # Game Instructions
 1) No button to go back to previous options, RESET must be clicked to enter values again.
 
